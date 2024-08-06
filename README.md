@@ -1,6 +1,6 @@
-# 🎉 Welcome to My GitHub Profile! 🎉
+# Welcome to My GitHub Profile! 🎉
 
-Hi there! 👋 I'm **[Your Name]**, a Full Stack Web Developer with 7 years of experience in creating and deploying web platforms. 🚀
+Hi there! 👋 I'm **José Humberto Trueba**, a Full Stack Web Developer with 7 years of experience in creating and deploying web platforms. 🚀
 
 ### 💼 About Me
 I'm passionate about delivering high-quality web solutions and specialize in:
