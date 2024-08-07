@@ -1,8 +1,7 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="margin-right:5px;width: 30px; display: inline-block;" data-target="animated-image.originalImage">¡Welcome to My GitHub Profile!</h1>
+<h1 align="center">¡Welcome to My GitHub Profile!</h1>
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width: 300px; display: inline-block;" data-target="animated-image.originalImage">
-<br>
-    <br>
+<br><br>
 <div align="center" style="margin-top:20px;">
     <img src="https://skillicons.dev/icons?i=php,aws,js,css,html,react,nodejs,mysql,java" border-radius="15" alt="dev-tools" />
 </div>
