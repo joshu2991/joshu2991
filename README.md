@@ -33,7 +33,12 @@ I'm passionate about delivering high-quality web solutions and specialize in:
 - [Portfolio-Canada-Version](https://ca.jhtrueba.xyz)
 - [Email](mailto:joshu2991@hotmail.com)
 
----
-
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<br><br>
 Feel free to explore my repositories and projects. I’m always open to collaboration and new opportunities. 🚀
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</div>
+
+
 
