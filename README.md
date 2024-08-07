@@ -37,7 +37,7 @@ I'm passionate about delivering high-quality web solutions and specialize in:
 <br><br>
 Feel free to explore my repositories and projects. I’m always open to collaboration and new opportunities. 🚀
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="width: 200px; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
 
