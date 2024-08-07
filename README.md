@@ -1,9 +1,11 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="width: 50px; display: inline-block;" data-target="animated-image.originalImage">¡Welcome to My GitHub Profile!</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="mrgin-top:30px;width: 50px; display: inline-block;" data-target="animated-image.originalImage">¡Welcome to My GitHub Profile!</h1>
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width: 300px; display: inline-block;" data-target="animated-image.originalImage"></h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width: 300px; display: inline-block;" data-target="animated-image.originalImage">
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,aws,js,css,html,react,nodejs,mysql,java" border-radius="15" alt="dev-tools" />
 </div>
+</h2>
+
 
 Hi there! 👋 I'm **José Humberto Trueba**, a Full Stack Web Developer with 7 years of experience in creating and deploying web platforms. 🚀
 
