@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🎉
 
-<div style="text-align:center; border-radius: 50%;"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"></div>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"></h2>
 
 Hi there! 👋 I'm **José Humberto Trueba**, a Full Stack Web Developer with 7 years of experience in creating and deploying web platforms. 🚀
 
